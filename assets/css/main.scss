@@ -2,42 +2,109 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
+ *    Minimal Mistakes Jekyll Theme
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import
-    "vendor/breakpoint/breakpoint",
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-    "themes",
-    "theme/default",
-    "theme/dark",
+@import "reset";
+@import "base";
 
-    "include/mixins",
-    "vendor/susy/susy",
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-    "layout/reset",
-    "layout/base",
+@import "forms";
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+@import "page";
+@import "archive";
+@import "sidebar";
 
-    "layout/forms",
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
+// 自定义样式：调整 h1 的滚动偏移
+h1 {
+    scroll-margin-top: 100px; // 根据页眉的高度进行调整
+}
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
-;
+
+.toc {
+    margin-top: 5px;
+    padding: 10px;
+    background-color: transparent; /* 设置为透明 */; /* 更改为淡蓝色背景 */
+    border-radius: 8px;
+    box-shadow: none; /* 可选：移除阴影 */
+  }
+  
+  .toc h3 {
+    margin-bottom: 10px;
+    font-size: 22px; /* 调整标题字体大小 */
+    font-weight: bold; /* 加粗标题 */
+    color: #333; /* 标题字体颜色 */
+    text-align: left; /* 左对齐标题 */
+  }
+  
+  .toc ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .toc ul li {
+    margin-bottom: 10px;
+  }
+  
+  .toc ul li a {
+    text-decoration: none;
+    font-size: 18px; /* 调整导航链接的字体大小 */
+    font-weight: normal; /* 正常字体 */
+    color: #007BFF; /* 设置链接颜色为蓝色 */
+    font-family: "Arial", sans-serif; /* 使用 Arial 字体，或根据需要选择其他字体 */
+  }
+  
+  .toc ul li a:hover {
+    text-decoration: underline;
+    color: #0056b3; /* 悬停时颜色变深 */
+  }
+
+// /* 保持左侧内容的位置不变 */
+// .sidebar-content {
+//     position: relative;
+//     /* 其他样式保持不变 */
+// }
+
+/* 调整导航栏的位置 */
+// .sidebar {
+//     position: fixed; /* 固定位置，使其不随页面滚动 */
+//     // position: sticky;
+//     top: 200px; /* 导航栏距离页面顶部的距离，调整这个值以适应你的布局 */
+//     left: 0; /* 左侧对齐 */
+
+//     font-size: 25px; /* 根据需要调整字体大小 */
+//     font-weight: normal; /* 可选：加粗字体 */
+   
+//     // transform: translateY(-50%); /* 向上移动50% */
+//     width: 200px; /* 导航栏宽度 */
+
+//     background-color: rgba(240, 248, 255, 0.9); /* 使用淡蓝色，增加透明度 */
+//     padding: 20px;
+//     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* 保留轻微阴影 */
+//     border-radius: 8px; /* 添加圆角，使其更柔和 */
+// }
