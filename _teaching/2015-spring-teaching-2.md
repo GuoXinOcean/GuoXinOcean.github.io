@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "物理海洋学基础实验"
+collection: 实验助教
+type: "Teaching"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "厦门大学, 海洋与地球学院"
+date: 2021-06-01
+location: "厦门, 中国"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
