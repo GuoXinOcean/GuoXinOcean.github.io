@@ -33,10 +33,8 @@ toc: false
 
     Guo, et al., Rhythms of the Agulhas Current Within the Framework of Energetic Anisotropy. **Journal of Geophysical Research: Oceans (2024)**
 
-    <br/>
   - **会议主旨报告：** 
     - 《Rhythms of the Agulhas Current within the framework of eddy energetic anisotropy》 **Xiamen Symposium on Marine Environmental Sciences 2025**
-
     - 《Extreme Acceleration of the Agulhas Current Triggered by Upstream Anticyclones》 **Xiamen Symposium on Marine Environmental Sciences 2023**
     - 《厄加勒斯流强度与位置的关系及机理初探》 **南强海洋动力论坛 2022**
 
@@ -46,11 +44,13 @@ toc: false
 ## 2.4 前沿探索 
   - **「AI× 海洋」前沿探索：科学化数据分析与机器学习实践 （2025）**
   获课程优秀荣誉证书，基于Python科学计算和 PyTorch 实现海洋数据智能解析与涡旋特征识别，开拓人工智能在海洋动力研究中的创新应用场景
+
 ---
 <br/>
 
 # 3-研究课题 
 ---
+
   ## 能量各向异性框架下厄加勒斯流的“韵律”
   ### 3.1 研究背景与核心目标
   厄加勒斯流（Agulhas current, AC）作为南半球最强的西边界流，其动力变异（强度变化与离岸曲流现象）对区域环流形态及经向热输送过程具有深远影响。本研究基于能量各向异性理论框架，深入解析**AC 加速及离岸曲流现象背后的涡 - 流相互作用机制**，取得了突破性的研究成果。
@@ -84,12 +84,14 @@ toc: false
 - **组织能力锻造：** 担任海洋与地球学院团总支 & 研究生会组织部负责人，主导多项大型学生活动策划与组织，协调团队高效运作。**2020 - 2021 年**
 - **党性思想引领：** 任职物理海洋第一研究生党支部纪检委员（监督党内纪律执行，推动支部作风建设）**2020 - 2023 年**
 - **学生服务践行：**  出任厦门大学学生会生活服务中心副主任（聚焦学生生活需求，优化校园生活服务） **2016 - 2017 年**
+
 ---
 <br/>
 <br/>
 
 # 6-奖学金/荣誉称号
 ---
+
 | 名称 | 颁发单位          | 年份                       |
 |----------------|---------------|-------------------------------|
 | **博海奖学金** | 厦门大学海洋与地球学院      |  2025          | 
