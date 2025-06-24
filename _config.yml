@@ -10,8 +10,10 @@
 locale                   : "en-US"
 title                    : "Xin Guo / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhaoying Wang"
-description              : &description "Physical Oceanography PhD candidate in State Key Laboratory of Marine Environmental Science of Xiamen University"
+name                     : &name "郭昕"
+description              : &description |
+  物理海洋学博士
+  厦门大学海洋生物地球化学国家重点实验室
 url                      : https://GuoXinOcean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuoXinOcean/GuoXin.github.io"
@@ -22,11 +24,13 @@ repository               : "GuoXinOcean/GuoXin.github.io"
 author:
   # Biographic information
   avatar           : "Photo-of-GuoXin.png"
-  name             : "Xin Guo"
+  name             : "郭昕"
   pronouns         : # example: "she/her"  
-  bio              : "Physical Oceanography PhD candidate, State Key Laboratory of Marine Environmental Science of Xiamen University"
+  bio              : |
+    物理海洋学博士
+    厦门大学海洋生物地球化学国家重点实验室
   # location         : "Shanghai, China."
-  employer         : "Xiamen University"
+  employer         : "厦门大学"
   uri              : # URL
   email            : "guoxin0123@stu.xmu.edu.cn" 
 
