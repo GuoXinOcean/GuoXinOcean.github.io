@@ -89,9 +89,9 @@ toc: false
 
 <!-- ![eddy](../images/eddy-WBC_evolution.gif "eddy"){:width='568'} -->
 
-<figure style="margin: 0; padding: 0; text-align: center;">
-  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" width="650" style="display: block; margin: 0 auto; max-width: 100%; border: none; padding: 0;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 2：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
+<figure style="text-align: center">
+  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" width="650">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; display: inline-block;"><em>图 2：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
 </figure>
 
 
