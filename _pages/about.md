@@ -82,16 +82,16 @@ toc: false
 <!-- ![collaborative_stereo](../images/poster.png "poster"){:width='900'} -->
 <figure style="text-align: center">
   <img src="../images/poster.png" alt="poster">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
 </figure>
 
 ## 3.2 数值模拟
 
 <!-- ![eddy](../images/eddy-WBC_evolution.gif "eddy"){:width='568'} -->
 
-<figure style="text-align: center">
-  <img src="../images/eddy-WBC_evolution.gif" alt="eddy" width="650">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em;"><em>图 2：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
+<figure style="margin: 0; padding: 0; text-align: center;">
+  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" width="650" style="display: block; margin: 0 auto; max-width: 100%; border: none; padding: 0;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 2：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
 </figure>
 
 
@@ -108,8 +108,8 @@ toc: false
 
 <!-- ![ta_map](../images/ta_map.jpg "ta_map"){:width='568'} -->
 <figure style="text-align: center">
-  <img src="../images/ta_map.jpg" alt="ta_map" width="400">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em;"><em>图 3：“海洋2号”实习航次站位图</em></figcaption>
+  <img src="../images/ta_map.jpg" alt="ta_map" width="300">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 3：“海洋2号”实习航次站位图</em></figcaption>
 </figure>
 
 
@@ -139,8 +139,8 @@ toc: false
 
 
 <figure style="text-align: center">
-  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" width="400">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em;"><em>图 4：支教队在双河民族中学合照</em></figcaption>
+  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" width="350">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 4：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
 </figure>
 
 ---
