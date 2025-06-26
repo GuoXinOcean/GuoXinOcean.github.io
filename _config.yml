@@ -32,7 +32,7 @@ author:
   # location         : "Shanghai, China."
   employer         : "厦门大学"
   uri              : # URL
-  email            : "guoxin0123@stu.xmu.edu.cn" 
+  # email            : "guoxin0123@stu.xmu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -354,13 +354,9 @@ sidebar:
           url: "#3-研究课题"
         - title: "4.教学实践"
           url: "#4-教学实践"
-        - title: "5.学生工作"
-          url: "#5-学生工作"
-        - title: "6.奖学金-荣誉称号"
-          url: "#6-奖学金-荣誉称号"
-        - title: "7.社会实践"
-          url: "#7-社会实践"
-        - title: "8.相关技能"
-          url: "#8-相关技能"
-        - title: "9.自我评价"
-          url: "#9-自我评价"
+        - title: "5.学生工作 & 社会实践"
+          url: "#5-学生工作 & 社会实践"
+        - title: "6.奖学金 & 荣誉称号"
+          url: "#6-奖学金 & 荣誉称号"
+        - title: "7.自我评价"
+          url: "#7-自我评价"
