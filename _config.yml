@@ -12,8 +12,8 @@ title                    : "Xin Guo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "郭昕"
 description              : &description |
-  物理海洋学博士
-  厦门大学海洋生物地球化学国家重点实验室
+  物理海洋学博士生
+  厦门大学海洋生物地球化学全国重点实验室
 url                      : https://GuoXinOcean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuoXinOcean/GuoXin.github.io"
@@ -27,8 +27,8 @@ author:
   name             : "郭昕"
   pronouns         : # example: "she/her"  
   bio              : |
-    物理海洋学博士
-    厦门大学海洋生物地球化学国家重点实验室
+    物理海洋学博士生<br>
+    厦门大学海洋生物地球化学全国重点实验室
   # location         : "Shanghai, China."
   employer         : "厦门大学"
   uri              : # URL
@@ -358,3 +358,9 @@ sidebar:
           url: "#5-学生工作"
         - title: "6.奖学金-荣誉称号"
           url: "#6-奖学金-荣誉称号"
+        - title: "7.社会实践"
+          url: "#7-社会实践"
+        - title: "8.相关技能"
+          url: "#8-相关技能"
+        - title: "9.自我评价"
+          url: "#9-自我评价"
