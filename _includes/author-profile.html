@@ -27,15 +27,26 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.employer %}
+      <!-- {% if author.employer %}
         <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
-      {% endif %}
+      {% endif %} -->
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       <!-- {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %} -->
+      {% if author.employer %}
+      <li class="author-item">
+        <i class="fa fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}
+      </li>
+      {% endif %}    
+      {% if author.email %}
+        <li class="author-item">
+          <i class="fas fa-envelope icon-pad-right" aria-hidden="true"></i>
+          <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+        </li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -70,11 +81,11 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
       {% endif %}
-      {% if author.email %}
+      <!-- {% if author.email %}
         <a href="mailto:{{ author.email }}">
           <i class="fas fa-envelope"></i> {{ author.email }}
         </a>
-      {% endif %}
+      {% endif %} -->
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
