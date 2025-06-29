@@ -137,7 +137,7 @@ toc: false
 
 <!-- ![ta_map](../images/ta_map.jpg "ta_map"){:width='568'} -->
 <figure style="text-align: center">
-  <img src="../images/ta_map.jpg" alt="ta_map" width="200">
+  <img src="../images/ta_map_and_ship.png" alt="ta_map" width="200">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 5：“海洋2号”实习航次站位图</em></figcaption>
 </figure>
 
