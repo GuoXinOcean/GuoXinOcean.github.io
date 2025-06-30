@@ -14,9 +14,9 @@ toc: false
 ---
 
 |时间          | 学位                   | 学校    | 专业          | GPA | 排名  | 
-|-------------|------------------------|---------|---------------|-----|------|
-| 2019 - 2025 | 硕博（导师：杨小怡教授） | 厦门大学 | 物理海洋学     |**4.0**| **1/19** |
-| 2015 - 2019 | 本科                   | 厦门大学 | 数学与应用数学 |**3.6**| 15/116|
+|-------------|------------------------|---------|--------------|-------------|-----------|
+| 2019 - 2025 | 硕博（导师：杨小怡教授） | 厦门大学 | 物理海洋学    |**3.8 & 4.0**|**1/19 & 1/8**|
+| 2015 - 2019 | 本科                   | 厦门大学 | 数学与应用数学 |**3.6**     |15/116    |
 
 
 ---
@@ -53,7 +53,7 @@ toc: false
     - 基于Python科学计算和 PyTorch 实现海洋数据智能解析与涡旋特征识别，开拓人工智能在海洋动力研究中的创新应用场景
 
 ## 2.5 相关技能 
-- 计算机能力：熟练掌握 Matlab、Python、CDO、Aronnax数值模拟等，以及word、excel、ppt等办公软件，掌握Linux,了解机器学习的基本原理与应用。
+- 计算机能力：熟练掌握 Matlab、Python、CDO、Aronnax数值模拟等，以及word、excel、ppt等办公软件，掌握Linux，了解机器学习的基本原理与应用。
 - 语言能力：大学英语六级(CET-6)，具备良好的英语读写与沟通能力。
 - 其他：开放水域初级潜水员证，高中数学教师资格证，普通话二级甲等。
   
@@ -87,7 +87,7 @@ toc: false
 <!-- ![collaborative_stereo](../images/poster.png "poster"){:width='900'} -->
 <figure style="text-align: center">
   <img src="../images/poster.png" alt="poster">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center !important;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
 </figure>
 
 
@@ -100,21 +100,21 @@ toc: false
 ### 3.2.2 研究内容
   - ### 孤立涡的演化
 <figure style="text-align: center">
-  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" width="500">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; display: inline-block;"><em>图 2：孤立反气旋涡的演化过程</em></figcaption>
+  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" style="width: 550px !important; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 2：孤立反气旋涡的演化过程</em></figcaption>
 </figure>
 
   - ### 风驱环流背景中涡旋的演化
 <figure style="text-align: center">
-  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" width="500">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; display: inline-block;"><em>图 3：反气旋涡在背景环流中的演化过程</em></figcaption>
+  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" style="width: 550px !important; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 3：反气旋涡在背景环流中的演化过程</em></figcaption>
 </figure>
   
   - ### 涡-流相互作用
 <!-- ![eddy](../images/eddy-WBC_evolution.gif "eddy"){:width='568'} -->
 <figure style="text-align: center">
-  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" width="500">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; display: inline-block;"><em>图 4：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
+  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" style="width: 500px !important; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 4：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
 </figure>
 
 
@@ -137,7 +137,7 @@ toc: false
 
 <!-- ![ta_map](../images/ta_map.jpg "ta_map"){:width='568'} -->
 <figure style="text-align: center">
-  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 300px !important; display: block; margin: 0 auto;">
+  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 600px !important; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 5：“海洋2号”及实习航次站位图</em></figcaption>
 </figure>
 
@@ -173,8 +173,8 @@ toc: false
 
 
 <figure style="text-align: center">
-  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" width="300">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 6：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
+  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" style="width: 550px !important; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center !important;"><em>图 6：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
 </figure>
 
 ---
