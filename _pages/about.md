@@ -84,10 +84,9 @@ toc: false
 ### 3.1.3 研究方法的创新与价值
 本研究采用的能量各向异性诊断方法，为探究多尺度相互作用提供了**全新视角**。该方法具备良好的**普适性**，有望推广应用于其他西边界流系统的研究，为海洋动力学领域的发展提供重要的理论支持与方法借鉴。
 
-<!-- ![collaborative_stereo](../images/poster.png "poster"){:width='900'} -->
-<figure style="text-align: center">
+<figure style="display: flex; flex-direction: column; align-items: center;"">
   <img src="../images/poster.png" alt="poster">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center !important;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
 </figure>
 
 
@@ -99,22 +98,21 @@ toc: false
 
 ### 3.2.2 研究内容
   - ### 孤立涡的演化
-<figure style="text-align: center">
-  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" style="width: 600px !important; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 2：孤立反气旋涡的演化过程</em></figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" style="width: 600px !important; ">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; "><em>图 2：孤立反气旋涡的演化过程</em></figcaption>
 </figure>
 
   - ### 风驱环流背景中涡旋的演化
-<figure style="text-align: center">
-  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" style="width: 600px !important; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 3：反气旋涡在背景环流中的演化过程</em></figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" style="width: 600px !important;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; "><em>图 3：反气旋涡在背景环流中的演化过程</em></figcaption>
 </figure>
   
   - ### 涡-流相互作用
-<!-- ![eddy](../images/eddy-WBC_evolution.gif "eddy"){:width='568'} -->
-<figure style="text-align: center">
-  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" style="width: 500px !important; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 4：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/eddy-WBC_evolution.gif" alt="eddy-WBC" style="width: 500px !important;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; "><em>图 4：反气旋涡旋与西边界流的相互作用过程</em></figcaption>
 </figure>
 
 
@@ -135,11 +133,6 @@ toc: false
 - 分组实验指导：指导学生掌握常规观测仪器（如：温盐仪、水色计等）的操作方法，监督实验流程的规范性。
 - **随船出海实习**： 协助组织乘坐“海洋2号”科考船（站位见图5），指导学生开展定位与水深观测，以及海洋气象（如风速、风向）、海况（水色、透明度）、温度盐度、海流等要素的现场观测，监督仪器使用安全、数据记录的准确性。
 
-<!-- ![ta_map](../images/ta_map.jpg "ta_map"){:width='568'} -->
-<!-- <figure style="text-align: center">
-  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 650px !important; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 5：“海洋2号”及实习航次站位图</em></figcaption>
-</figure> -->
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 650px !important;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;">
@@ -176,10 +169,9 @@ toc: false
   - 与平潭县政府领导座谈，了解当地风力发电产业发展现状与现存挑战。
   - 通过问卷调研居民、政府工作人员，剖析风力发电对当地环境、生活、经济的多维影响，有效提升实地调研、数据分析与专业沟通能力。
 
-
-<figure style="text-align: center">
-  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" style="width: 580px !important; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center !important;"><em>图 6：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" style="width: 600px !important;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 6：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
 </figure>
 
 ---
