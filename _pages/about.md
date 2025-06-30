@@ -84,7 +84,7 @@ toc: false
 ### 3.1.3 研究方法的创新与价值
 本研究采用的能量各向异性诊断方法，为探究多尺度相互作用提供了**全新视角**。该方法具备良好的**普适性**，有望推广应用于其他西边界流系统的研究，为海洋动力学领域的发展提供重要的理论支持与方法借鉴。
 
-<figure style="display: flex; flex-direction: column; align-items: center;"">
+<figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="../images/poster.png" alt="poster">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;"><em>图 1：《能量各向异性框架下厄加勒斯流的“韵律”》研究总结</em></figcaption>
 </figure>
