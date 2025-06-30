@@ -100,13 +100,13 @@ toc: false
 ### 3.2.2 研究内容
   - ### 孤立涡的演化
 <figure style="text-align: center">
-  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" style="width: 550px !important; display: block; margin: 0 auto;">
+  <img src="../images/eddy_evolution.gif" alt="eddy-WBC" style="width: 600px !important; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 2：孤立反气旋涡的演化过程</em></figcaption>
 </figure>
 
   - ### 风驱环流背景中涡旋的演化
 <figure style="text-align: center">
-  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" style="width: 550px !important; display: block; margin: 0 auto;">
+  <img src="../images/eddy_evolution_with-background.gif" alt="eddy-WBC" style="width: 600px !important; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 3：反气旋涡在背景环流中的演化过程</em></figcaption>
 </figure>
   
@@ -136,11 +136,16 @@ toc: false
 - **随船出海实习**： 协助组织乘坐“海洋2号”科考船（站位见图5），指导学生开展定位与水深观测，以及海洋气象（如风速、风向）、海况（水色、透明度）、温度盐度、海流等要素的现场观测，监督仪器使用安全、数据记录的准确性。
 
 <!-- ![ta_map](../images/ta_map.jpg "ta_map"){:width='568'} -->
-<figure style="text-align: center">
-  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 600px !important; display: block; margin: 0 auto;">
+<!-- <figure style="text-align: center">
+  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 650px !important; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center; !important;"><em>图 5：“海洋2号”及实习航次站位图</em></figcaption>
+</figure> -->
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/ta_map_and_ship.png" alt="ta_map" style="width: 650px !important;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center;">
+    <em>图 5：“海洋2号”及实习航次站位图</em>
+  </figcaption>
 </figure>
-
 
 ---
 <br/>
@@ -173,7 +178,7 @@ toc: false
 
 
 <figure style="text-align: center">
-  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" style="width: 550px !important; display: block; margin: 0 auto;">
+  <img src="../images/Teach_Yunnan.jpg" alt="Teach_Yunnan" style="width: 580px !important; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 0.5em; text-align: center !important;"><em>图 6：支教队在双河民族中学合照，以及学生们写给我的信</em></figcaption>
 </figure>
 
