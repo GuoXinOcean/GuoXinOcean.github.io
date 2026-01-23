@@ -33,8 +33,8 @@ toc: false
   - **期刊论文**：
 
     - **Guo, X.**, Yang, X.-Y., Deng, Q., Lin, H., & Wang, D. (2024). Rhythms of the Agulhas current within the framework of energetic anisotropy. Journal of Geophysical Research: Oceans, 129, e2024JC021044. https://doi.org/10.1029/2024JC021044  （JCR分区：Q1）
-    - **Guo, X.**, Yang, X.-Y., Deng, Q., (2025). Numerical Study on the Evolution of Solitary Eddy in Different Structure. Ocean Dynamics. (In preparation)
-    -  **Guo, X.**, Yang, X.-Y., Deng, Q., Zhang, Y. (2025). Interactions of Elliptical Mesoscale Eddy and Non-meridional Western Boundary Current: A Reduced-Gravity Numerical Model Study. Journal of Physical Oceanography. (In preparation)
+    - **Guo, X.**, Yang, X.-Y., Gao, G., & Deng, Q., (2025). Numerical Study on the Evolution of Solitary Eddy in Different Structure. Ocean Dynamics. (In preparation)
+    -  **Guo, X.**, Yang, X.-Y., Gao, G., Deng, Q., & Zhang, Y. (2025). Interactions of Elliptical Mesoscale Eddy and Non-meridional Western Boundary Current: A Reduced-Gravity Numerical Model Study. Journal of Physical Oceanography. (In preparation)
 
 
   - **会议报告：** 
@@ -146,7 +146,7 @@ toc: false
 ---
 <br/>
 
-# 5-学生工作与社会实践
+# 5-学生工作与实践
 ---
 
 ## 5.1 学生工作
