@@ -12,6 +12,7 @@ title                    : "Xin Guo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "郭昕"
 description              : &description |
+  数学与应用数学学士
   物理海洋学博士
 url                      : https://GuoXinOcean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,6 +27,7 @@ author:
   name             : "郭昕"
   pronouns         : # example: "she/her"  
   bio              : |
+    数学与应用数学学士<br>
     物理海洋学博士<br>
   # location         : "Shanghai, China."
   # employer         : "厦门大学"
